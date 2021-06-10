@@ -10,7 +10,7 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-div#main {
+main {
     margin: auto;
     text-align: center;
 }
